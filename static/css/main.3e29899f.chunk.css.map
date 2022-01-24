@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css","webpack://src/components/TodoList/todoList.scss"],"names":[],"mappings":"AAAA,KACE,iBACF,CCFA,YACE,eAAgB","file":"main.3e29899f.chunk.css","sourcesContent":[".App {\n  text-align: center;\n}\n",".todo__list {\n  list-style: none;\n}\n"]}
